@@ -1,0 +1,10 @@
+ body { background: #0f172a; color: #e2e8f0; }
+    .card { background: #111827; border: 1px solid #1f2937; }
+    .form-control, .btn { border-radius: 1rem; }
+    .stat { font-weight: 700; font-size: 1.05rem; }
+    table tbody tr:hover { background: rgba(255,255,255,0.04); }
+    .muted { color:#94a3b8 }
+    a, a:hover { color:#93c5fd }
+    .loader { display:none }
+    .section-title { font-size: 1.1rem; font-weight:700; }
+    .vr { width:1px; min-height:24px; background:#334155; }
